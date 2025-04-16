@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\ConsoleAppIndexableCollectionsIndex\\",
+  "WorkspaceRootPath": "C:\\GitHubDesktop\\IndexableCollectionsIndex-Exercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FB540C2-561E-4B9D-931D-B96D61EAB0B1}|ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections.csproj|c:\\consoleappindexablecollectionsindex\\consoleappindexablecollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FB540C2-561E-4B9D-931D-B96D61EAB0B1}|ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections.csproj|c:\\githubdesktop\\indexablecollectionsindex-exercise\\consoleappindexablecollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FB540C2-561E-4B9D-931D-B96D61EAB0B1}|ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections.csproj|solutionrelative:consoleappindexablecollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ConsoleAppIndexableCollectionsIndex\\ConsoleAppIndexableCollections\\Program.cs",
+              "DocumentMoniker": "C:\\GitHubDesktop\\IndexableCollectionsIndex-Exercise\\ConsoleAppIndexableCollections\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppIndexableCollections\\Program.cs",
-              "ToolTip": "C:\\ConsoleAppIndexableCollectionsIndex\\ConsoleAppIndexableCollections\\Program.cs",
+              "ToolTip": "C:\\GitHubDesktop\\IndexableCollectionsIndex-Exercise\\ConsoleAppIndexableCollections\\Program.cs",
               "RelativeToolTip": "ConsoleAppIndexableCollections\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T13:07:02.296Z",
               "EditorCaption": ""

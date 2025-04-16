@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppIndexableCollections")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bf3bd405e212bfa0bbf571e4a2bb6b9cf564f38")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppIndexableCollections")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppIndexableCollections")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
