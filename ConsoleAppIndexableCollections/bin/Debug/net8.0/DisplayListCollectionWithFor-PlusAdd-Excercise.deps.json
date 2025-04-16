@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DisplayListCollectionWithFor-PlusAdd-Excercise/1.0.0": {
+        "runtime": {
+          "DisplayListCollectionWithFor-PlusAdd-Excercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DisplayListCollectionWithFor-PlusAdd-Excercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
